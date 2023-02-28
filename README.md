@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web2.0, Web3.0 and Mobile dev works.
 - 🌱 I’m currently learning 3D modeling & threeJs
 - 💞️ I’m looking to collaborate on Web3 projects
+- My portfolio can be found here: https://iampapagray.com
 - 📫 How to reach me: iamjbgray@proton.me
 
 <!---
